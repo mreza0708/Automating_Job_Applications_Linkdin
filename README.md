@@ -1,4 +1,4 @@
-This project is a Python-based tool designed to automate the extraction of publicly available data from LinkedIn profiles. The tool utilizes web automation and scraping techniques to gather structured data, which can be used for market research, recruitment analysis, and other data-driven applications. Please note that this project is for educational purposes, and any use of this tool must comply with LinkedIn’s terms of service and data usage policies.
+This project is a Python-based tool designed to automate the extraction of publicly available data from LinkedIn profiles. The tool utilizes web automation and scraping techniques to gather structured data, which can be used for market research, recruitment analysis, and other data-driven applications.
 
 
 Features
